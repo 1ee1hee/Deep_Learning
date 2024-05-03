@@ -1,0 +1,2 @@
+model_checkpoint_path: "cat_dog_transfer_learning"
+all_model_checkpoint_paths: "cat_dog_transfer_learning"
